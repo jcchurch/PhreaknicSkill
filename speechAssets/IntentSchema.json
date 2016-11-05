@@ -1,22 +1,12 @@
 {
   "intents": [
-    {
-      "intent": "GetSurprise"
-    },
-    {
-      "intent": "GetRoar"
-    },
-    {
-      "intent": "GetMeme"
-    },
-    {
-      "intent": "AMAZON.StopIntent"
-    },
-    {
-      "intent": "AMAZON.CancelIntent"
-    },
-    {
-      "intent": "AMAZON.HelpIntent"
-    }
+    { "intent": "OpeningDialogIntent" },
+    { "intent": "WhoAreYouIntent" },
+    { "intent": "WhoAmIIntent" },
+    { "intent": "WhereAreYouIntent" },
+    { "intent": "TellMeSomethingIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" },
+    { "intent": "AMAZON.HelpIntent" }
   ]
 }

@@ -1,49 +1,20 @@
-GetSurprise and suprise me
-GetSurprise and do whatever
-GetSurprise and do what you do
-GetSurprise and I don't care
-GetSurprise and stuff
-GetSurprise and whatever
-GetSurprise for stuff
-GetSurprise for anything
-GetSurprise for anything
-GetSurprise for something
-GetSurprise and tell me something
-GetSurprise and say something funny
-GetMeme for a joke
-GetMeme for a fact
-GetMeme for a meme
-GetMeme for a quote
-GetMeme for wisdom
-GetMeme for some wisdom
-GetMeme get a joke 
-GetMeme get a fact 
-GetMeme get a meme
-GetMeme get a quote
-GetMeme get wisdom
-GetMeme get some wisdom
-GetMeme joke
-GetMeme fact
-GetMeme meme 
-GetMeme wisdom
-GetRoar for a screech
-GetRoar for a roar
-GetRoar for roar
-GetRoar get a screech
-GetRoar get a roar
-GetRoar and get a roar
-GetRoar and screech
-GetRoar and screech at me
-GetRoar and roar
-GetRoar and roar at me
-GetRoar and make a sound
-GetRoar and make a screech
-GetRoar and make a roar
-GetRoar and attack
-GetRoar and yell at me
-GetRoar but roar
-GetRoar but attack
-GetRoar make a sound
-GetRoar a roar
-GetRoar roar
-GetRoar screech
+OpeningDialogIntent begin
+OpeningDialogIntent start
+OpeningDialogIntent lets go
+WhoAreYouIntent who are you
+WhoAreYouIntent and who are you
+WhoAreYouIntent what are you
+WhoAreYouIntent and what are you
+WhoAreYouIntent what is your name
+WhoAreYouIntent what is your name
+WhoAreYouIntent and what is your name
+WhoAmIIntent who am i
+WhoAmIIntent and who am i
+WhoAmIIntent what is my name
+WhoAmIIntent and what is my name
+WhereAreYouIntent where are you
+WhereAreYouIntent and where are you
+TellMeSomethingIntent sure
+TellMeSomethingIntent sure alexa
+TellMeSomethingIntent okay
+TellMeSomethingIntent yes
