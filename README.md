@@ -1,10 +1,8 @@
-# Philosoraptor skill for Amazon Echo
+# Phreaknic skill for Amazon Echo
 
 ## Overview
 
-The default action is for the Philosoraptor skill to dispense either one philosoraptor meme quote or a raptor-like sound. This happens randomly with 75% meme quotes and 25% raptor-like sounds.
-
-You may also request only raptor-like sounds ("Alexa, ask philosophy raptor for a roar") or a meme ("Alexa, ask philosophy raptor for a meme").
+This skill was written specifically for my talk at Phreaknic 20. November 5th, 2016.
 
 ## Understanding This Code
 
@@ -16,6 +14,6 @@ To prepare this project for uploading, move into the `src` folder.
 
 Then zip the project.
 
-    zip -r philosoraptor.zip *
+    zip -r phreaknic.zip *
 
 Then upload the zip file produced.
