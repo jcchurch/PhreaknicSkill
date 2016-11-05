@@ -5,6 +5,7 @@
     { "intent": "WhoAmIIntent" },
     { "intent": "WhereAreYouIntent" },
     { "intent": "TellMeSomethingIntent" },
+    { "intent": "FinalRebuttalIntent" },
     { "intent": "AMAZON.StopIntent" },
     { "intent": "AMAZON.CancelIntent" },
     { "intent": "AMAZON.HelpIntent" }

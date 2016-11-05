@@ -7,10 +7,8 @@
 - James: And who am I?
 - Alexa: You are James.
 - James: Where are you?
-- Alexa: I am in Murfeesboro for freak nick 20. , , , James, may I tell you something?
+- Alexa: I am in Murfeesboro for freak nick 20. , ,  James, may I tell you something?
 - James: Sure.
 - Alexa: You waited until the last minute in order to plan this talk, right?
-- James: No I did not!
-- Alexa: You also cannot read a schedule.
-- James: Hey! Cut that out.
-- Alexa: You thought your talk on Friday was on Saturday. You nit.
+- James: That is not true.
+- Alexa: Check the git log, people. Alexa out.

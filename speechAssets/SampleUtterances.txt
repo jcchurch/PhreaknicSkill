@@ -18,3 +18,5 @@ TellMeSomethingIntent sure
 TellMeSomethingIntent sure alexa
 TellMeSomethingIntent okay
 TellMeSomethingIntent yes
+FinalRebuttalIntent that is not true
+FinalRebuttalIntent i did not wait
